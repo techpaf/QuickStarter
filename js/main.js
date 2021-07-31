@@ -1,3 +1,4 @@
 $(document).ready(function(){
-	console.log("What are you building today ?");
+	// DOM is ready...
+	console.log("What will you build today ?");
 });
